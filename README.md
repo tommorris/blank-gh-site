@@ -13,3 +13,4 @@ Your own unique website can be your identity on the Internet! You can use it to 
 5. (Optional) [Point your domain to Github](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
 Per [CC0](http://creativecommons.org/publicdomain/zero/1.0/), to the extent possible under law, [the contributors](https://github.com/indieweb/blank-gh-site/graphs/contributors) have waived all copyright and related or neighboring rights to this work.
+
